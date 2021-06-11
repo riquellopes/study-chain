@@ -8,3 +8,7 @@ Topics:
 * https://github.com/eth-brownie/brownie
 * https://medium.com/@crashartifacts/how-to-build-a-web-app-using-blockchain-part-1-e3dab7bbdeb
 * https://codeburst.io/deploy-a-smart-contract-using-python-how-to-b62de0124b
+* https://github.com/emesik/cardano-python
+* https://docs.cardano.org/projects/adrestia/en/latest/index.html?highlight=python
+* https://docs.cardano.org/en/latest/explainers/cardano-explainers/smart-contract-exp.html#:~:text=Cardano%20is%20introducing%20smart%20contract,using%20such%20programming%20languages%20as%3A&text=With%20Glow%2C%20users%20can%20write,safely%20in%20an%20adversarial%20environment
+* https://medium.com/@eiracube/blockchain-applicability-in-real-world-analysis-5eda22b699ea
